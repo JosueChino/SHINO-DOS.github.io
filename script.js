@@ -17,5 +17,5 @@ var coordenadas = () => {
 }
 
 btnyes.addEventListener('click', () => {
-    alert(' ya sabia que querias ser mi ami@, je je 💪🏻');
+    alert(' sE QUE NO ESTAS BIEN, TRAQUIL@ RESPIRA FROFUNDO Y SIGUE ADELNATE TODO VA ESTAR BIEN TODO MEJORARA 💪🏻');
 });
